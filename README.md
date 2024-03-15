@@ -1,4 +1,5 @@
-# Hi, there 👋🏻:
+# <h1 align="center">Hi there <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+
 My name is Erasyl Zhasulan and I am a software developer. I am from Kazakhstan. You can find me in [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/erasyl-zhasulan) 
 
 # 💻 Tech Stack:
@@ -8,7 +9,7 @@ My name is Erasyl Zhasulan and I am a software developer. I am from Kazakhstan. 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jasa1aw&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jasa1aw&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
+
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
