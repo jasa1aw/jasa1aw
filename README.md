@@ -8,7 +8,9 @@ My name is Erasyl Zhasulan and I am a software developer. I am from Kazakhstan. 
 ![](https://github-readme-stats.vercel.app/api?username=jasa1aw&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jasa1aw&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jasa1aw&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=jasa1aw/hh_back/tree/main#readme)](https://github.com/jasa1aw/hh_back)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jasa1aw&repo=hh_back&theme=dark&hide_border=true)](https://github.com/jasa1aw/hh_back)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jasa1aw&repo=head-hunter&theme=dark&hide_border=true)](https://github.com/jasa1aw/head-hunter)
 
 
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
