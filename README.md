@@ -14,18 +14,5 @@ My name is Erasyl Zhasulan and I am a software developer. I am from Kazakhstan. 
 
 
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
-# 💫 About Me:
-My name is Erasyl Zhasulan and I am a software developer. I am from Kazakhstan. You can find me in
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/erasyl-zhasulan-431661265) 
-
-
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
